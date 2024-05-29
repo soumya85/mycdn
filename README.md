@@ -1,0 +1,2 @@
+# mycdn
+cdn test
