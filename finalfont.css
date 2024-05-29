@@ -1,0 +1,14 @@
+
+/* define font-face */
+@font-face {
+    font-family: myFirstFont;
+    src: url('https://cdn.jsdelivr.net/gh/soumya85/mycdn/fonts/Mona-Sans.woff2') format('woff'),
+		url('https://cdn.jsdelivr.net/gh/soumya85/mycdn/fonts/Mona-Sans.ttf') format('truetype'),
+		
+
+
+	
+
+    font-weight: normal;
+    font-style: normal;
+}
