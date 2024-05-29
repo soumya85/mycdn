@@ -1,0 +1,12 @@
+h1 {
+    color:blue;
+}
+/* define font-face */
+@font-face {
+    font-family: myFirstFont;
+    src: url('https://cdn.jsdelivr.net/gh/soumya85/mycdn//fonts/MonaSans-Black.woff2') format('woff'),
+		url('https://cdn.jsdelivr.net/gh/soumya85/mycdn/MonaSans-Black.ttf') format('truetype'),
+		url('https://cdn.jsdelivr.net/gh/soumya85/mycdn/MonaSans-Black.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
